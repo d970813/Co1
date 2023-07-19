@@ -3,11 +3,17 @@ color: crimson;
 }
 
 h4{
-color: coral;
+color: crimson;
 }
 
 
 h3{
 
-color: ghostwhite;
+color: rgb(65, 65, 255);
+}
+
+button{
+    color: blueviolet;
+    background-color: blue;
+    size: 20px;
 }
